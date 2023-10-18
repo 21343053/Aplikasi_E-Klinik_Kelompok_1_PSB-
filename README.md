@@ -3,8 +3,8 @@
 - Kode Seksi     : 202313430061
 - Program Studi  : Informatika (NK)
 
-  ## Kelompok 1
-  Anggota:
+## Kelompok 1
+   Anggota:
     - Abel Levran (21343038)
     - Khalilul Afwan (21343053)
     - Muhammad Asyrof (21343056)
