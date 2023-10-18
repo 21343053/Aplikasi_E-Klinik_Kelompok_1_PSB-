@@ -5,6 +5,6 @@
 
 ## Kelompok 1
    Anggota:
-    - Abel Levran (21343038)
-    - Khalilul Afwan (21343053)
-    - Muhammad Asyrof (21343056)
+- Abel Levran (21343038)
+- Khalilul Afwan (21343053)
+- Muhammad Asyrof (21343056)
